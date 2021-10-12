@@ -16,4 +16,4 @@ Just kidding lmao. Take your time
 You can send a friend request to me in discord. If you plan to contact me by email, just don't. I rarely open up my email app
 
 ### Have fun!
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/755257427968000065)](https://discord.com/users/755257427968000065)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/755257427968000065?idleMessage="Either%20bored%20as%20hell,%20talking%20to%20friends,%20or%20dead"&theme=dark)](https://discord.com/users/755257427968000065)
