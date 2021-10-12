@@ -13,6 +13,7 @@ The pinned repos are some of my personal favorites. *Go check them out **NOW**ðŸ
 Just kidding lmao. Take your time
 
 ## Need something from me? Contact me
-You can send a friend request to me in discord (its `DumbassTerminal#8362`, btw). If you plan to contact me by email, just don't. I rarely open up my email app
+You can send a friend request to me in discord. If you plan to contact me by email, just don't. I rarely open up my email app
 
 ### Have fun!
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/755257427968000065)](https://discord.com/users/755257427968000065)
