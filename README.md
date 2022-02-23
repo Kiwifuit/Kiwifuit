@@ -1,7 +1,7 @@
 # *Sometimes Programmer, Sometimes Gamer, Alltimes miserable*
 Heyo. I'm Misery. I've been programming since December 2020.
 
-I mostly code in Python and Java, though I can write a good C++ program when pigs fly
+I mostly code in Python and Java, though I barely do anything here
 
 <!-- Lanyard Profile -->
 <p align="center">
