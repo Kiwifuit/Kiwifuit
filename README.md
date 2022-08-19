@@ -9,6 +9,12 @@ I mostly code in Python and Rust, though I can *probably* code in these language
 # :speech_balloon: Socials
 My socials can always be found at [tarball.carrd.co](https://tarball.carrd.co/)
 
+# :hugs: Thanks for stopping by!
+Check out my pinned projects, you might see something worth your time :grin:
+
+-------
+Here's my Discord in case you need a reliable way to contact me:
+
 <!-- Lanyard Profile -->
 <p align="center">
   <img src="https://lanyard-profile-readme.vercel.app/api/755257427968000065?idleMessage=Off%20to%20somewhere%20worth%20living%20:%3E&theme=dark" onclick="window.location = 'https://discord.com/users/755257427968000065'"> 
