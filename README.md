@@ -1,7 +1,10 @@
 # *Sometimes Programmer, Sometimes Gamer, Alltimes Miserable*
 Heyo. I'm Misery. I've been programming since December 2020.
 
-I mostly code in Python and Rust, though I barely do anything here
+I mostly code in Python and Rust, though I can *probably* do other languages
+
+# Socials
+My socials can always be found at [tarball.carrd.co](https://tarball.carrd.co/)
 
 <!-- Lanyard Profile -->
 <p align="center">
