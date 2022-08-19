@@ -11,5 +11,5 @@ My socials can always be found at [tarball.carrd.co](https://tarball.carrd.co/)
 
 <!-- Lanyard Profile -->
 <p align="center">
-  <img src="https://lanyard-profile-readme.vercel.app/api/755257427968000065?idleMessage='Off%20to%20somewhere%20worth%20living%20:>'&theme=dark" onclick="window.location = 'https://discord.com/users/755257427968000065'"> 
+  <img src="https://lanyard-profile-readme.vercel.app/api/755257427968000065?idleMessage='Off%20to%20somewhere%20worth%20living%20:%3E'&theme=dark" onclick="window.location = 'https://discord.com/users/755257427968000065'"> 
 </p>
