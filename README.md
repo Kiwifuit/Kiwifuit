@@ -2,9 +2,11 @@
 Heyo. I'm Misery. I've been programming since December 2020.
 
 # :construction_worker: Who I am
-I mostly code in Python and Rust, though I can *probably* code in these languages:
-* C#
-* Java
+I am a programmer that lives somewhere on earth :alien:
+
+Here are the tech I have experience in:
+
+![image](https://skillicons.dev/icons?i=py,rust,java,git,sqlite,neovim,raspberrypi,linux,vscode&theme=dark)
 
 # :speech_balloon: Socials
 My socials can always be found at [tarball.carrd.co](https://tarball.carrd.co/)
