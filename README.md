@@ -1,12 +1,12 @@
 # 👋 *Sometimes Programmer, Sometimes Gamer, Alltimes Miserable*
-Heyo. I'm Misery. I've been programming since December 2020.
+Heyo. I'm Misery. I am a high school student and I've been programming since December 2020.
 
 # 👨‍💻 Who I am
 I am a programmer that lives somewhere on earth 👽
 
 Here are the tech I have experience in:
 
-![image](https://skillicons.dev/icons?i=py,rust,git,sqlite,neovim,raspberrypi,linux,vscode&theme=dark)
+![image](https://skillicons.dev/icons?i=py,rust,html,css,js,jquery,sqlite&theme=dark)
 
 # 💬 Socials
 My socials can always be found at [tarball.carrd.co](https://tarball.carrd.co/)
