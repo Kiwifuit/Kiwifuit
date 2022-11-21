@@ -1,21 +1,21 @@
-# :wave: *Sometimes Programmer, Sometimes Gamer, Alltimes Miserable*
+# 👋 *Sometimes Programmer, Sometimes Gamer, Alltimes Miserable*
 Heyo. I'm Misery. I've been programming since December 2020.
 
-# :construction_worker: Who I am
-I am a programmer that lives somewhere on earth :alien:
+# 👨‍💻 Who I am
+I am a programmer that lives somewhere on earth 👽
 
 Here are the tech I have experience in:
 
 ![image](https://skillicons.dev/icons?i=py,rust,git,sqlite,neovim,raspberrypi,linux,vscode&theme=dark)
 
-# :speech_balloon: Socials
+# 💬 Socials
 My socials can always be found at [tarball.carrd.co](https://tarball.carrd.co/)
 
-# :hugs: Thanks for stopping by!
-Check out my pinned projects, you might see something worth your time :grin:
+# 🤗 Thanks for stopping by!
+Check out my pinned projects, you might see something worth your time 😁
 
 -------
-Here's my Discord in case you need a reliable way to contact me:
+Since I'm most active on Discord, send me a DM there:
 
 <!-- Lanyard Profile -->
 <p align="center">
