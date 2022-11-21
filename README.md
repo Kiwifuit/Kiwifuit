@@ -1,8 +1,6 @@
 # :wave: *Sometimes Programmer, Sometimes Gamer, Alltimes Miserable*
 Heyo. I'm Misery. I've been programming since December 2020.
 
-I am currently developing on [Chattime.rs](https://github.com/Chattime-rs), a work-in-progress chat app
-
 # :construction_worker: Who I am
 I am a programmer that lives somewhere on earth :alien:
 
