@@ -6,7 +6,7 @@ I am a programmer that lives somewhere on earth :alien:
 
 Here are the tech I have experience in:
 
-![image](https://skillicons.dev/icons?i=py,rust,java,git,sqlite,neovim,raspberrypi,linux,vscode&theme=dark)
+![image](https://skillicons.dev/icons?i=py,rust,git,sqlite,neovim,raspberrypi,linux,vscode&theme=dark)
 
 # :speech_balloon: Socials
 My socials can always be found at [tarball.carrd.co](https://tarball.carrd.co/)
