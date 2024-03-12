@@ -1,12 +1,12 @@
 # 👋 *Sometimes Programmer, Sometimes Gamer, Alltimes Miserable*
-Heyo. I'm Misery. I am a high school student and I've been programming since December 2020.
+Heyo. I'm InhumaneTarball. I am a high school student and I've been programming since December 2020.
 
 # 👨‍💻 Who I am
 I am a programmer that lives somewhere on earth 👽
 
 Here are the tech I have experience in:
 
-![image](https://skillicons.dev/icons?i=py,rust,html,css,js,jquery,sqlite&theme=dark)
+![skills](https://skillicons.dev/icons?i=py,rust,bash,html,css,js,ts,flask,tauri,react,arduino,postgres,docker&theme=dark&perline=5)
 
 # 💬 Socials
 My socials can always be found at [tarball.carrd.co](https://tarball.carrd.co/)
