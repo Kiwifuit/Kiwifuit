@@ -16,6 +16,7 @@ Check out my pinned projects, you might see something worth your time 😁
 
 -------
 Since I'm most active on Discord, send me a DM there:
+(*trust me I am online on discord I just dont set my status as such very often*)
 
 <!-- Lanyard Profile -->
 <p align="center">
